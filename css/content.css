@@ -205,7 +205,7 @@ box-shadow:1px 1px 5px #666;-moz-box-shadow:1px 1px 5px #666;-webkit-box-shadow:
 .contact .contact_inner{width:96%;min-width:400px;padding:0px 2%;}
 .contact .contact_inner h2{margin-bottom:20px;font-weight:lighter;font-size:48px;}
 .contact .contact_inner .contact_text_wrap{margin-bottom:20px;font-size:36px;line-height:150%;}
-.contact .contact_inner .contact_text_wrap table{margin-top:20px;font-size:36px;line-height:150%;}
+.contact .contact_inner .contact_text_wrap table{margin-top:20px;font-size:36px;line-height:150%;color:#434343;}
 .contact .contact_inner .contact_text_wrap table td:first-child{width:300px;}
 
 }
