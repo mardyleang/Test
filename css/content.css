@@ -20,6 +20,8 @@ a{text-decoration:none;}
 .footer .footer_inner{width:1000px;height:35px;margin:0 auto;font-size:14px;color:#fff;text-align:center;}
 .footer .footer_inner p{padding:7px;}
 
+.blank{display:none;}
+
 /*---------- Home ----------*/
 
 .slideshow{width:100%;min-width:1000px;}
@@ -130,7 +132,7 @@ box-shadow:1px 1px 5px #666;-moz-box-shadow:1px 1px 5px #666;-webkit-box-shadow:
 .footer .footer_inner{width:100%;min-width:400px;height:90px;font-size:32px;}
 .footer .footer_inner p{padding:22px;}
 
-.blank{height:1000px;}
+.blank{height:1000px;display:block;}
 
 /*---------- About Us ----------*/
 
