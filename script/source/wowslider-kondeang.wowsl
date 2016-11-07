@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>wowslider-kondeang</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/bootstrap/</ImageTemplate>
+            <ImageTemplateName>Bootstrap</ImageTemplateName>
+            <ImageWidth>1280</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Dell/Desktop/New folder/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/Dell/Desktop/New folder</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>0</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>30</SlideshowDelay>
+            <SlideshowDuration>30</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Helvetica Neue</TemplateFont>
+            <TemplateName>bootstrap</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Exercise/201510- Freelance/20160829 Kondeang/img/slideshow/1.jpg</url>
+                <filesize>568662</filesize>
+            </Image>
+            <Image>
+                <url>D:/Exercise/201510- Freelance/20160829 Kondeang/img/slideshow/2.jpg</url>
+                <filesize>504349</filesize>
+            </Image>
+            <Image>
+                <url>D:/Exercise/201510- Freelance/20160829 Kondeang/img/slideshow/3.jpg</url>
+                <filesize>635418</filesize>
+            </Image>
+            <Image>
+                <url>D:/Exercise/201510- Freelance/20160829 Kondeang/img/slideshow/4.jpg</url>
+                <filesize>456131</filesize>
+            </Image>
+            <Image>
+                <url>D:/Exercise/201510- Freelance/20160829 Kondeang/img/slideshow/5.jpg</url>
+                <filesize>345048</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
